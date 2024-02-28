@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+  #resultado de aplicación
+
+  
+- limk de referencia https://flutlab.io/docs](https://codesinsider.com/flutter-listview-example/?expand_article=1)
+- Iker Samuel Requenes Hernandez, a.21308051280396@cbtis128.edu.mx
+![image](https://github.com/hernandez5i/p10-applist-6i/assets/144732360/46d967f4-7695-4104-8f84-381d88e4fec4)
+
+
